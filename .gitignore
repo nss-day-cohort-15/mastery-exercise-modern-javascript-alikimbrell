@@ -4,3 +4,7 @@ node_modules
 dist/
 css/
 bower_components
+.jshintrc
+Gruntfile.js
+bower.json
+package.json
